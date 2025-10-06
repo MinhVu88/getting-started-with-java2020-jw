@@ -1,4 +1,4 @@
-package main.java.com.pluralsight.java2020.sec4.calcengine;
+package main.java.com.pluralsight.jimwilson.sec4.calcengine;
 
 public class Main {
 	public static void main(String[] args) {

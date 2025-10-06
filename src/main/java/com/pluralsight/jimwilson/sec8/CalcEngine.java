@@ -1,4 +1,4 @@
-package main.java.com.pluralsight.java2020.sec8;
+package main.java.com.pluralsight.jimwilson.sec8;
 
 import java.util.Scanner;
 

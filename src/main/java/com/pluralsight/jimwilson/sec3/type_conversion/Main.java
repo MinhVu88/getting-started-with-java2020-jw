@@ -1,4 +1,4 @@
-package main.java.com.pluralsight.java2020.sec3.type_conversion;
+package main.java.com.pluralsight.jimwilson.sec3.type_conversion;
 
 public class Main {
 	public static void main(String[] args) {

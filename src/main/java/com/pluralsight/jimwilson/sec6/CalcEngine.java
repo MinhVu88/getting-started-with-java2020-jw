@@ -1,4 +1,4 @@
-package main.java.com.pluralsight.java2020.sec6;
+package main.java.com.pluralsight.jimwilson.sec6;
 
 public class CalcEngine {
 	private static double execute(char letter, double leftVal, double rightVal) {

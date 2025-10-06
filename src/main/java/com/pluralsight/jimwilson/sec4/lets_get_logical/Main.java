@@ -1,4 +1,4 @@
-package main.java.com.pluralsight.java2020.sec4.lets_get_logical;
+package main.java.com.pluralsight.jimwilson.sec4.lets_get_logical;
 
 public class Main {
 	public static void main(String[] args) {
